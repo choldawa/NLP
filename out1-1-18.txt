@@ -1,0 +1,9 @@
+Obama,NNP,1,1-1-18
+abcdefg,NN,1,1-1-18
+across,IN,1,1-1-18
+cameron,NN,1,1-1-18
+cat,NN,1,1-1-18
+ran,VBD,1,1-1-18
+road,NN,1,1-1-18
+scared,JJ,1,1-1-18
+the,DT,2,1-1-18
